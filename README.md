@@ -28,3 +28,4 @@ How to Run
 	1.	Clone this repository.
 	2.	Import the database schema and data into your DBMS.
 	3.	Execute the SQL queries in the provided SQL scripts.
+![MusicDatabaseSchema](https://github.com/user-attachments/assets/2af55ca7-4a8e-4a5c-a9ae-f988eb2d663a)
